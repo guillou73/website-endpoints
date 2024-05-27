@@ -1,11 +1,11 @@
-google.com
+#google.com
 facebook.com
 youtube.com
 baidu.com
 yahoo.com
 amazon.com
 wikipedia.org
-qq.com
+#qq.com
 twitter.com
 slashdot.org
 google.co.in
